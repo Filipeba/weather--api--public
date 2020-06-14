@@ -1,0 +1,30 @@
+{
+  "name": "weather--api--public",
+  "version": "1.0.0",
+  "description": "<a href=\"https://filipeba.github.io/weather--app/\"><img src=\"./frontpage.png\" title=\"weather app\" alt=\"image of the website\"></a>",
+  "main": "index.js",
+  "dependencies": {
+    "address": "^1.1.2",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "geoip-lite": "^1.4.2",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Filipe Bergami Alves",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Filipeba/weather--api--public.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Filipeba/weather--api--public/issues"
+  },
+  "homepage": "https://github.com/Filipeba/weather--api--public#readme"
+}
