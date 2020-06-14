@@ -1,12 +1,12 @@
 <a href="https://filipeba.github.io/weather--app/"><img src="./frontpage.png" title="weather app" alt="image of the website"></a>
 
-# Weather App
+# Weather API
 
-> A Weather App, in React, that requests from a Restful API, in Noddejs.
+> A Restful API, in Noddejs that responses to a Weather App, in React.
 
 > Requests the Location (But lookup for the IP Address) and shows the current Weather Forecast.
 
-> Weather, App, Project, JavaScript, HTML, CSS, React, Front End, Back End, Full Stack, Node, Server, Web Developer, Developer, Engineer, Software, Computer Science, Code, Programming.
+> Weather, API, Project, JavaScript, HTML, CSS, React, Front End, Back End, Full Stack, Node, Server, Web Developer, Developer, Engineer, Software, Computer Science, Code, Programming.
 
 <a href="http://g.recordit.co/rHHrvjdQyO.gif"><img src="./gif.gif" alt="gif" border="0"></a>
 
@@ -68,15 +68,14 @@
 ```
 NPM
 ```
-- Front End:
+- Back End:
 ```
-JavaScript Framework: React
-CSS Framework: Bootstrap
+Node Framework: Express
 ```
 - Deployment
 ```
-Github Pages (Front End)
 Heroku (Back End)
+Github Pages (Front End)
 ```
 
 ---
